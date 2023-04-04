@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>io.github.nikolatx</groupId>
+        <artifactId>tnt-beer-works-bom</artifactId>
+        <version>1.0.7-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>tnt-brewery-bom</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <description>Brewery BOM Project - common dependencies for brewery services</description>
+
+
+
+
+
+
+
+
+
+    <scm>
+        <connection>scm:git:git@github.com:nikolatx/tnt-brewery-bom.git</connection>
+        <developerConnection>scm:git:git@github.com:nikolatx/tnt-brewery-bom.git</developerConnection>
+        <url>https://github.com/nikolatx/tnt-brewery-bom</url>
+        <tag>HEAD</tag>
+    </scm>
+
+    <issueManagement>
+        <url>https://github.com/nikolatx/tnt-brewery-bom/issues</url>
+        <system>GitHub</system>
+    </issueManagement>
+
+</project>
