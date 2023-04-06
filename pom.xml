@@ -7,7 +7,7 @@
     <parent>
         <groupId>io.github.nikolatx</groupId>
         <artifactId>tnt-beer-works-bom</artifactId>
-        <version>1.0.0</version>
+        <version>1.1.0</version>
     </parent>
 
     <artifactId>tnt-brewery-bom</artifactId>
@@ -48,5 +48,7 @@
         <url>https://github.com/nikolatx/tnt-brewery-bom/issues</url>
         <system>GitHub</system>
     </issueManagement>
+
+
 
 </project>
