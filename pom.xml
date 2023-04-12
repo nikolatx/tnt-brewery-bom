@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>tnt-brewery-bom</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <packaging>pom</packaging>
     <description>Brewery BOM Project - common dependencies for brewery services</description>
 
@@ -23,6 +23,10 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-artemis</artifactId>
         </dependency>
         <dependency>
             <groupId>com.h2database</groupId>
